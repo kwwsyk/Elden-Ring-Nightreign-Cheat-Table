@@ -12,7 +12,7 @@ A simple self-made Cheat Table (CT), free to use as reference; currently being u
  * Stamina/Max Stamina | 耐力/最大耐力
 
 # Possible Reliable Environment | 可能运行环境
- I tested this CT in | 此CT在
+ I tested this CT in | 此CT测试于
   * win 11
   * Elden Ring Nightreign version 1.0.2
   * Cheat Engine 7.5
