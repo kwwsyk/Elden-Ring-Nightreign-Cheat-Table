@@ -4,7 +4,7 @@ A simple self-made Cheat Table (CT), free to use as reference; currently being u
 自行制作的简易ct，可以随意借鉴，目前正在更新中
 
 # Entries | 修改条目
-
+**WARNING** In version 1.01.2 this entries are out of date. | 在新版本1.01.2中，这些地址已无效
  * Rune | 卢恩（局内魂）
  * Murk | 夜痕（局外魂）
  * Hp/MaxHp | 生命/最大生命
